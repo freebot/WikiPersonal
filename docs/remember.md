@@ -1,6 +1,6 @@
 # Recordatorios
 
-- Reparar API de magento
 - Instalar MercadoPagos
+- Instalar 99 minutos 
 - Me quedé en la 30
 
