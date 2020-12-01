@@ -1,8 +1,7 @@
 # Recordatorios
 
-- Instalar MercadoPagos
-- Instalar 99 minutos 
-- Me quedé en la 30
-- Crear función para Invoice en el OrderProcessing
+- Crear cola para invoice
 - Función para revisar cambios Madking
 - Función para cambiar precios de compras
+- https://docs.opensea.io/docs/1-structuring-your-smart-contract
+- https://docs.opensea.io/docs
