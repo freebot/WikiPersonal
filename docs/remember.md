@@ -5,4 +5,4 @@
 - Función para cambiar precios de compras
 - https://docs.opensea.io/docs/1-structuring-your-smart-contract
 - https://docs.opensea.io/docs
-- Transferir 1,793.40
+- Transferir 1,674.28
