@@ -4,4 +4,4 @@
 - Función para cambiar precios de compras
 - https://docs.opensea.io/docs/1-structuring-your-smart-contract
 - https://docs.opensea.io/docs
-- Faltan las brocas 3,4,5
+- Borrar 20940323
